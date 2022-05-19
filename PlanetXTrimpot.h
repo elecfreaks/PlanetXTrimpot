@@ -1,5 +1,5 @@
-#ifndef _PlanetXTRIMPOT_H_
-#define _PlanetXTRIMPOT_H_
+#ifndef _PLANETXTRIMPOT_H_
+#define _PLANETXTRIMPOT_H_
 
 #include "RJPins.h"
 
